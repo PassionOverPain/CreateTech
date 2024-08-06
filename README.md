@@ -11,3 +11,10 @@ a phone.
 C# <br>
 Windows Application Form .NET FRAMEWORK <br>
 Visual Studio 
+
+<h1>Preview</h1>
+
+![image](https://github.com/user-attachments/assets/5409de76-40f6-4632-b39e-c07f0a8feb23)
+
+![image](https://github.com/user-attachments/assets/7bdf8127-e5be-47da-9694-f553791c4de8)
+
