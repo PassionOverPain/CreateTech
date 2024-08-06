@@ -6,3 +6,8 @@ This app has been built to be on mobile devices first thus the windows applicati
 a phone.
 <br>
 <i>This application is still in it's prototyping stage.</i>
+
+<h1>Build</h1>
+C# <br>
+Windows Application Form .NET FRAMEWORK <br>
+Visual Studio 
