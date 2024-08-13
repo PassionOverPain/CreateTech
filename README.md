@@ -27,10 +27,11 @@ Visual Studio
     <ul>
     <li>A. Remember Me    : Saves your information to your local storage, you won't have to login the next time your launch the app.</li>
      <li>B. Shoping Cart   : Saves all the food items you have chosen to purchase with the amount and quantity.</li>
-     <li>C. New Account    : Allows you to create a new account on the CreateIT system.</li>
-     <li>D. Settings       : Allows you to change the current settings of your CreateIT account.</li>
-     <li>E. Back           : Navigates back to the Home Page and hides the dashboard.</li>
-     <li>F. Exit           : This will sign you out of the CreateIT application and take you back to the Sign In page.</li>
+     <li>C. Recipes        : Shows the recipes you can create based on the ingriedients you have.</li>
+     <li>D. New Account    : Allows you to create a new account on the CreateIT system.</li>
+     <li>E. Settings       : Allows you to change the current settings of your CreateIT account.</li>
+     <li>F. Back           : Navigates back to the Home Page and hides the dashboard.</li>
+     <li>G. Exit           : This will sign you out of the CreateIT application and take you back to the Sign In page.</li>
     </ul>
 
 ![image](https://github.com/user-attachments/assets/5409de76-40f6-4632-b39e-c07f0a8feb23)
