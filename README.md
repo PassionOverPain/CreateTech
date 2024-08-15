@@ -33,6 +33,8 @@ Visual Studio
      <li>F. Back           : Navigates back to the Home Page and hides the dashboard.</li>
      <li>G. Exit           : This will sign you out of the CreateIT application and take you back to the Sign In page.</li>
     </ul>
+11. You can then navigate back to food categories screen ( see the Home Page, step 8) where you can choose a specific food category, in this example we choose fruits.
+12. 
 
 ![image](https://github.com/user-attachments/assets/5409de76-40f6-4632-b39e-c07f0a8feb23)
 
